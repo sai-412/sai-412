@@ -12,11 +12,11 @@
 
 My most current project involves a MicroMod as a microcontroller to create a smart clock. A smart clock that not only displays the time but is also useful in everyday life.
 
-**Environmental Sensors:** Accurately measures room temperature and CO2 levels.
-**Timer Function:** Integrated timer features for daily use.
-**Clock Display:** Clear and reliable time display for daily use.
-**Audio Warnings:** Integrated buzzer to sound warnings when necessary.
-**Technologies:** Embedded systems, MicroMod hardware, Git and programming.
+**Environmental Sensors:** Accurately measures room temperature and CO2 levels.  
+**Timer Function:** Integrated timer features for daily use.  
+**Clock Display:** Clear and reliable time display for daily use.  
+**Audio Warnings:** Integrated buzzer to sound warnings when necessary.  
+**Technologies:** Embedded systems, MicroMod hardware, Git and programming.  
 
 ---
 
