@@ -6,6 +6,12 @@
 ---
 ### 🚀 Projekte
 
+#### WorkoutTracker *(In Entwicklung)*
+Ein digitales Trainingstagebuch zur strukturierten Erfassung von Übungen inklusive Sätzen, Wiederholungen und Gewichten. Das Projekt dient als persönliches Notizbuch für das Krafttraining, um den Trainingsfortschritt im Zeitverlauf zu sehen.
+* **Trainingsprotokoll:** Erfassung und Verwaltung von Übungen, Sets, Reps und Gewichten.
+* **Fortschrittsanzeige:** Verfolgung der Leistungssteigerung im Laufe der Zeit.
+* **Technologien:** Blazor, C#, Webentwicklung, Datenbanken
+
 #### SmartClock
 Ein Projekt mit einem MicroMod als Mikrocontroller zur Entwicklung einer intelligenten Uhr, die nicht nur die Zeit anzeigt, sondern auch im Alltag nützlich ist.
 * **Umweltsensoren:** Misst präzise Raumtemperatur und CO2-Werte.
@@ -22,7 +28,7 @@ Ein Team-Projekt, das einen serverlosen Gesichtserkennungs-Service auf AWS reali
 ---
 ### 💻 Tech Stack & Skills
 * **Programmierung:** C/C++, C#
-* **Webentwicklung:** HTML, CSS, JavaScript
+* **Webentwicklung:** Blazor, HTML, CSS, JavaScript
 * **Tools:** VS Code, Visual Studio, Git, Docker
 * **Datenbanken & Grundlagen:** SQL, Linux-Grundlagen
 * **Cloud:** AWS (S3, Lambda, Rekognition)
