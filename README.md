@@ -4,14 +4,6 @@
 * **Lehre:** Informatiker EFZ, Fachrichtung Applikationsentwicklung
 * **Leidenschaft:** Programmieren, Hardware-Projekte und die Entwicklung innovativer Lösungen
 ---
-### 🚀 Projekte
-
-#### WorkoutTracker *(In Entwicklung)*
-Ein digitales Trainingstagebuch zur strukturierten Erfassung von Übungen inklusive Sätzen, Wiederholungen und Gewichten. Das Projekt dient als persönliches Notizbuch für das Krafttraining, um den Trainingsfortschritt im Zeitverlauf zu sehen.
-* **Trainingsprotokoll:** Erfassung und Verwaltung von Übungen, Sets, Reps und Gewichten.
-* **Fortschrittsanzeige:** Verfolgung der Leistungssteigerung im Laufe der Zeit.
-* **Technologien:** Blazor, C#, Webentwicklung, Datenbanken
-
 #### SmartClock
 Ein Projekt mit einem MicroMod als Mikrocontroller zur Entwicklung einer intelligenten Uhr, die nicht nur die Zeit anzeigt, sondern auch im Alltag nützlich ist.
 * **Umweltsensoren:** Misst präzise Raumtemperatur und CO2-Werte.
